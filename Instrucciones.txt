@@ -1,0 +1,26 @@
+Vikingos (Name, helath, strength)
+
+Entrenamiento(The Pit)
+	Batalla entre Vikingos
+		2 Vikingos pelean
+		Damage Reduce Health
+		Turnos
+		No Winner
+		No Death but Damage (Si va a dejar la vida en 0, no se juega el round)
+		Fight end by turns
+
+Los pobres sajones
+	Saxons 
+		No name
+		(Health, Strength) Aleatorio, menos que los vikingos
+
+Asalto
+	Turnos ==> Aleatorio entre (5 y 8)
+	Viking attack ==>Causa daño; El daño es igual a la fuerza
+	Sajon defiende ==> Causa daño; El daño es igual a la fuerza
+	Al final: Comparación de Muertes, el % mayor gana
+
+Bonus: Jarl Army:
+	Sólo los vikingos ===> Edad entre 15 y 45 años
+	Armas: Hacha|Broadsword|Lanza|Shield
+	Bonus al atributo
